@@ -86,4 +86,4 @@ This project is licensed under standard open source terms. See [`pom.xml`](pom.x
 
 ---
 *Built with [Spring Boot](https://spring.io/projects/spring-boot) and [Spring AI](https://github.com/spring-projects/spring-ai).*
-**Subscribe at [igorfragadev.com](igorfragadev.com) for more**
+**Subscribe at [igorfragadev.com](https://igorfragadev.com) for more**
